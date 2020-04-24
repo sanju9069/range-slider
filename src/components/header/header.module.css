@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background: #01d1e4;
+    align-items: center;
+}
+.logoDiv{
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #134696;
+}
+.sliderValue{
+    color: #134696;
+    font-weight: 600;
+}
