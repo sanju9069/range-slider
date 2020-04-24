@@ -1,3 +1,7 @@
+After downloading/cloning the folder run the below command to install all the dependencies.
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
