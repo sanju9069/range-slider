@@ -3,7 +3,7 @@ import React, { useState, createContext } from "react";
 export const RangeContext = createContext();
 
 export const RangeProvider = (props) => {
-  const headingTitle = "Tests";
+  const headingTitle = "Logo";
   const [rangeVal, setRangeVal] = useState({
     inputVal: 70,
     step: 0,
